@@ -1,0 +1,11 @@
+C:\Users\Berkay\Desktop\C#\7\project7\project7\bin\Debug\project7.exe
+C:\Users\Berkay\Desktop\C#\7\project7\project7\bin\Debug\project7.pdb
+C:\Users\Berkay\Desktop\C#\7\project7\project7\obj\x86\Debug\project7.Properties.Resources.resources
+C:\Users\Berkay\Desktop\C#\7\project7\project7\obj\x86\Debug\project7.csproj.GenerateResource.Cache
+C:\Users\Berkay\Desktop\C#\7\project7\project7\obj\x86\Debug\project7.exe
+C:\Users\Berkay\Desktop\C#\7\project7\project7\obj\x86\Debug\project7.pdb
+C:\Users\Berkay\Desktop\C#\7\project7\project7\obj\x86\Debug\project7.RoomDetailForm.resources
+C:\Users\Berkay\Desktop\C#\7\project7\project7\obj\x86\Debug\project7.csprojResolveAssemblyReference.cache
+C:\Users\Berkay\Desktop\C#\7\project7\project7\obj\x86\Debug\project7.Mainprogramform.resources
+F:\Disk\kurtarılanlar\Masaüstünden\C#\7\project7\project7\obj\x86\Debug\project7.exe
+F:\Disk\kurtarılanlar\Masaüstünden\C#\7\project7\project7\obj\x86\Debug\project7.pdb
